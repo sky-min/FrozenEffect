@@ -1,4 +1,4 @@
 # FrozenEffect
 
 ## Todo
--[] Vanila
+- [ ] Vanila
